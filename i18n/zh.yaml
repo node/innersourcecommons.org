@@ -1,33 +1,33 @@
-join_slack: "Join Slack"
-more_videos: "More Videos"
+join_slack: "加入 Slack"
+more_videos: "更多视频"
 
 # Newsletter
-join_mailing_list: "Sign up to our newsletter"
-enter_email: "Enter Email"
-subscribe: "Subscribe"
+join_mailing_list: "订阅我们的 Newsletter"
+enter_email: "输入邮件地址"
+subscribe: "订阅"
 
 # About
 about_innersource_commons: |-
-  The InnerSource Commons is a thriving community that empowers organisations and people worldwide to apply and gain the benefits of open collaboration in their internal work.
+  InnerSource Commons 是一个蓬勃发展的社区，使世界各地的组织和人员能够在其内部工作中应用开放式协作并从中受益。
 about_innersource_commons_history: |-
-  Founded in 2015, the InnerSource Commons is now supporting and connecting over 1500 individuals from over 500 companies, academic institutions, and government agencies. The InnerSource Commons Foundation was incorporated on February 19th, 2020 and is now a 501(c)(3) public charity.
+  InnerSource Commons 成立于2015年，目前为来自 500 多家公司、学术和政府机构的 1500 多名个人提供支持和联系。InnerSource Commons 基金会于 2020 年 2 月 19 日注册成立，现为 501(c)(3) 公共慈善机构。
 
 # Learn
-learn_button: Learn
+learn_button: 学习
 
 ## Book
-author: Author
-publication_date: Publication Date
-publisher: Publisher
-read_the_book: Read the book
+author: 作者
+publication_date: 出版日期
+publisher: 出版商
+read_the_book: 阅读此书
 
 ## Research
-read_research_report: Read Research Report
+read_research_report: 阅读研究报告
 
 ## Site Metadata
-meta_description: The InnerSource Commons is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource. 
-meta_keywords: InnerSource,Open source,silo,collaboration
+meta_description: InnerSource Commons 是一个不断壮大的同行社区，其目标是创建和共享有关 InnerSource 的知识。
+meta_keywords: InnerSource,Open source,silo,collaboration,内源,开源,孤岛,协作
 
 # License
 footer_content: |-
-  The site is licensed under a CC-BY-SA license unless otherwise marked.
+  除非另有说明，本网站采用 CC-BY-SA 许可协议。
